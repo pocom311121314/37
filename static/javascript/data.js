@@ -655,7 +655,7 @@ document.getElementById("search").addEventListener("click", () => {
   //loop through all elements
   elements.forEach((element, index) => {
     //check if text includes the search value
-    if ((element.innerText.split(/\s/)).includes(searchInput)) {
+    if ((element.innerText.split(/\s/)).includes(searchInput.toLowerCase().replace(/\s/g,''))) {
       //display matching card
       cards[index].classList.remove("hide");
     } else {
