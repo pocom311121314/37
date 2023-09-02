@@ -5,7 +5,7 @@ let db = {
     {
         id : "1",
         title : "BOAT AIRPODS PRO (BLACK)",
-        tag : "headphone deep bass bluetooth wireless boat black",
+        tag : "headphones headphone deep bass bluetooth wireless boat black",
         category: "flash",
         rating: "static/image/data/05.png",
         price : "299",
@@ -15,7 +15,7 @@ let db = {
     {
         id : "2",
         title : "BOAT AIRPODS PRO (GREEN-WHITE)",
-        tag : "headphone deep bass bluetooth wireless boat green white",
+        tag : "headphones headphone deep bass bluetooth wireless boat green white",
         category: "flash",
         rating: "static/image/data/04.png",
         price : "259",
@@ -25,7 +25,7 @@ let db = {
     {
         id : "3",
         title : "BOAT AIRPODS PRO (RED)",
-        tag : "headphone deep bass bluetooth wireless boat red ",
+        tag : "headphones headphone deep bass bluetooth wireless boat red ",
         category: "flash",
         rating: "static/image/data/03.png",
         price : "399",
@@ -35,7 +35,7 @@ let db = {
     {
         id : "4",
         title : "BOAT AIRPODS PRO (GREEN)",
-        tag : "headphone deep bass bluetooth wireless boat green ",
+        tag : "headphones headphone deep bass bluetooth wireless boat green ",
         category: "flash",
         rating: "static/image/data/02.png",
         price : "359",
@@ -45,7 +45,7 @@ let db = {
     {
         id : "5",
         title : "BOAT AIRPODS WIRELESS (BLUE)",
-        tag : "headphone deep bass bluetooth wireless boat blue",
+        tag : "headphones headphone deep bass bluetooth wireless boat blue",
         category: "flash",
         rating: "static/image/data/01.png",
         price : "499",
@@ -55,7 +55,7 @@ let db = {
     {
         id : "6",
         title : "boAt New AirPods Pro",
-        tag : "headphone deep bass bluetooth wireless boat black",
+        tag : "headphones headphone deep bass bluetooth wireless boat black",
         category: "flash",
         rating: "static/image/data/05.png",
         price : "346",
@@ -65,7 +65,7 @@ let db = {
     {
         id : "7",
         title : "boAt New AirPods Pro",
-        tag : "headphone deep bass bluetooth wireless boat blue",
+        tag : "headphones headphone deep bass bluetooth wireless boat blue",
         category: "199",
         rating: "static/image/data/05.png",
         price : "199",
@@ -75,7 +75,7 @@ let db = {
     {
         id : "8",
         title : "boAt New AirPods Pro",
-        tag : "headphone deep bass bluetooth wireless boat green ",
+        tag : "headphones headphone deep bass bluetooth wireless boat green ",
         category: "199",
         rating: "static/image/data/05.png",
         price : "199",
@@ -85,7 +85,7 @@ let db = {
     {
         id : "9",
         title : "boAt New AirPods Pro",
-        tag : "headphone deep bass bluetooth boat black ",
+        tag : "headphones headphone deep bass bluetooth boat black ",
         category: "199",
         rating: "static/image/data/05.png",
         price : "199",
@@ -95,7 +95,7 @@ let db = {
     {
         id : "10",
         title : "boAt New AirPods Pro",
-        tag : "headphone deep bass bluetooth boat black  ",
+        tag : "headphones headphone deep bass bluetooth boat black  ",
         category: "199",
         rating: "static/image/data/05.png",
         price : "199",
@@ -105,7 +105,7 @@ let db = {
     {
         id : "11",
         title : "boAt New AirPods Pro",
-        tag : "headphone deep bass bluetooth boat blue",
+        tag : "headphones headphone deep bass bluetooth boat blue",
         category: "5k",
         rating: "static/image/data/05.png",
         price : "3999",
@@ -115,7 +115,7 @@ let db = {
     {
         id : "12",
         title : "boAt New AirPods Pro",
-        tag : "headphone deep bass bluetooth boat black  ",
+        tag : "headphones headphone deep bass bluetooth boat black  ",
         category: "5k",
         rating: "static/image/data/05.png",
         price : "3999",
@@ -125,7 +125,7 @@ let db = {
     {
         id : "13",
         title : "boAt Comfort Pro",
-        tag : "headphone deep bass bluetooth boat black ",
+        tag : "headphones headphone deep bass bluetooth boat black ",
         category: "5k",
         rating: "static/image/data/05.png",
         price : "3999",
@@ -135,7 +135,7 @@ let db = {
     {
         id : "14",
         title : "boAt Comfort Pro",
-        tag : "headphone deep bass bluetooth boat white ",
+        tag : "headphones headphone deep bass bluetooth boat white ",
         category: "5k",
         rating: "static/image/data/05.png",
         price : "3999",
@@ -145,7 +145,7 @@ let db = {
     {
         id : "15",
         title : "boAt Comfort Pro",
-        tag : "headphone deep bass bluetooth boat black 7.1",
+        tag : "headphones headphone deep bass bluetooth boat black 7.1",
         category: "5k",
         rating: "static/image/data/05.png",
         price : "4999",
@@ -285,7 +285,7 @@ let db = {
     {
         id : "29",
         title : "REDMI NOISE FIT WITH VDO CALL",
-        tag : "redmi smartwatch smart watch bluetooth blue",
+        tag : "redmi smartwatch smartwatches watches smart watch bluetooth blue",
         category: "popular",
         rating: "static/image/data/04.png",
         price : "6999",
@@ -295,7 +295,7 @@ let db = {
     {
         id : "30",
         title : "REDMI NOISE FIT WITH VDO CALL",
-        tag : "redmi smartwatch smart watch bluetooth black",
+        tag : "redmi smartwatch smartwatches watches smart watch bluetooth black",
         category: "10k",
         rating: "static/image/data/04.png",
         price : "6999",
@@ -305,7 +305,7 @@ let db = {
     {
         id : "31",
         title : "REDMI NOISE FIT WITH VDO CALL",
-        tag : "redmi smartwatch smart watch bluetooth black",
+        tag : "redmi smartwatch smartwatches watches smart watch bluetooth black",
         category: "10k",
         rating: "static/image/data/03.png",
         price : "6999",
@@ -315,7 +315,7 @@ let db = {
     {
         id : "32",
         title : "REDMI NOISE FIT WITH VDO CALL",
-        tag : "redmi smartwatch smart watch bluetooth red",
+        tag : "redmi smartwatch smartwatches watches smart watch bluetooth red",
         category: "10k",
         rating: "static/image/data/03.png",
         price : "6999",
@@ -325,7 +325,7 @@ let db = {
     {
         id : "33",
         title : "HP GAMING VICTUS",
-        tag : "hp laptop rog gaming 1tb ssd i7 16 gb ",
+        tag : "hp laptop laptops rog gaming 1tbssd i7 16gbram ",
         category: "50k",
         rating: "static/image/data/03.png",
         price : "45,999",
@@ -335,7 +335,7 @@ let db = {
     {
         id : "34",
         title : "HP GAMING VICTUS PRO",
-        tag : "hp laptop rog gaming 1tb ssd i7 16 gb ",
+        tag : "hp laptop laptops rog gaming 1tbssd i7 16gbram ",
         category: "80k",
         rating: "static/image/data/03.png",
         price : "65,999",
@@ -345,7 +345,7 @@ let db = {
     {
         id : "35",
         title : "HP GAMING VICTUS ROG",
-        tag : "hp laptop rog gaming 1tb ssd i7 16 gb ",
+        tag : "hp laptop laptops rog gaming 1tbssd i7 16gbram ",
         category: "50k",
         rating: "static/image/data/03.png",
         price : "45,999",
@@ -355,7 +355,7 @@ let db = {
     {
         id : "36",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop rog gaming 1tb ssd i5 16 gb ",
+        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -365,7 +365,7 @@ let db = {
     {
         id : "37",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop rog gaming 1tb ssd i5 16 gb ",
+        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -375,7 +375,7 @@ let db = {
     {
         id : "38",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop rog gaming 1tb ssd i5 16 gb ",
+        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -385,7 +385,7 @@ let db = {
     {
         id : "39",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop rog gaming 1tb ssd i5 16 gb ",
+        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -395,7 +395,7 @@ let db = {
     {
         id : "40",
         title : "DELL G15 i5 12 GEN",
-        tag : "dell laptop rog gaming 1tb ssd i5 16 gb ",
+        tag : "dell laptop laptops rog gaming 1tbssd i5 16gbram ",
         category: "100k",
         rating: "static/image/data/03.png",
         price : "95,999",
@@ -405,7 +405,7 @@ let db = {
     {
         id : "41",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop student 256 gb ssd i5 4 gb ",
+        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
         category: "popular",
         rating: "static/image/data/02.png",
         price : "55,999",
@@ -415,7 +415,7 @@ let db = {
     {
         id : "42",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop student 256 gb ssd i5 4 gb ",
+        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
         category: "popular",
         rating: "static/image/data/02.png",
         price : "55,999",
@@ -425,7 +425,7 @@ let db = {
     {
         id : "43",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop student 256 gb ssd i5 4 gb ",
+        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
         category: "80k",
         rating: "static/image/data/02.png",
         price : "55,999",
@@ -435,7 +435,7 @@ let db = {
     {
         id : "44",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop student 256 gb ssd i5 4 gb ",
+        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
         category: "80k",
         rating: "static/image/data/02.png",
         price : "55,999",
@@ -445,7 +445,7 @@ let db = {
     {
         id : "45",
         title : "LENOVO IDEAPAD GAMING i5 11 GEN",
-        tag : "lenovo laptop student 256  gb ssd i5 4   gb ",
+        tag : "lenovo laptop laptops student 256gbssd i5 4gbram ",
         category: "50k",
         rating: "static/image/data/02.png",
         price : "45,999",
