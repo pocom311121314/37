@@ -155,7 +155,7 @@ let db = {
     {
         id : "16",
         title : "VIVO 5G 4 gb ram 128 gb rom ",
-        tag : "vivo 5G 4 gb ram 128 gb rom smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black",
+        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black",
         category: "popular",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -165,7 +165,7 @@ let db = {
     {
         id : "17",
         title : "VIVO 5G 4_128",
-        tag : "vivo 5G 4 gb ram 128 gb rom smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black ",
+        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black ",
         category: "20k",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -175,7 +175,7 @@ let db = {
     {
         id : "18",
         title : "VIVO 5G 4_128",
-        tag : "vivo 5G 4 gb ram 128 gb rom smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black ",
+        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles black ",
         category: "20k",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -185,7 +185,7 @@ let db = {
     {
         id : "19",
         title : "VIVO 5G 4_128",
-        tag : "vivo 5G 4 gb ram 128 gb rom smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles blue",
+        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles blue",
         category: "20k",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -195,7 +195,7 @@ let db = {
     {
         id : "20",
         title : "VIVO 5G 4_128",
-        tag : "vivo 5G 4 gb ram 128 gb rom smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles gold",
+        tag : "vivo 5G 4 gb ram 128 gb rom 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles gold",
         category: "20k",
         rating: "static/image/data/05.png",
         price : "15,999",
@@ -205,7 +205,7 @@ let db = {
     {
         id : "21",
         title : "APPLE IPHONE 14 ",
-        tag : "apple iphone 5G 4 gb ram 128 gb rom green smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
+        tag : "apple iphone 5G 4 gb ram 128 gb rom green 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
         category: "popular",
         rating: "static/image/data/04.png",
         price : "79,999",
@@ -215,7 +215,7 @@ let db = {
     {
         id : "22",
         title : "APPLE IPHONE 14 ",
-        tag : "apple iphone 5G 4 gb ram 128 gb rom blue smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
+        tag : "apple iphone 5G 4 gb ram 128 gb rom blue 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
         category: "80k",
         rating: "static/image/data/04.png",
         price : "79,999",
@@ -225,7 +225,7 @@ let db = {
     {
         id : "23",
         title : "APPLE IPHONE 14 ",
-        tag : "apple iphone 5G 4 gb ram 128 gb rom white smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
+        tag : "apple iphone 5G 4 gb ram 128 gb rom white 5g  smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
         category: "80k",
         rating: "static/image/data/04.png",
         price : "79,999",
@@ -235,7 +235,7 @@ let db = {
     {
         id : "24",
         title : "APPLE IPHONE 14 ",
-        tag : "apple iphone 5G 4 gb ram 128 gb rom black smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
+        tag : "apple iphone 5G 4 gb ram 128 gb rom black 5g smartphone smartphones smart phone phones mobilephone mobilephones mobile mobiles ",
         category: "80k",
         rating: "static/image/data/04.png",
         price : "79,999",
